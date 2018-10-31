@@ -3,10 +3,10 @@ public class ArrayListString {
 
 	public static void main(String[] args) {
 	ArrayList<String> Mahasiswa = new ArrayList<String>();
-	Mahasiswa.add("ASWANDI");
-	Mahasiswa.add("ASWAR RAMADHANA");
-	Mahasiswa.add("EKSA ARWINSYAH");
-	Mahasiswa.add("MUH. ALIM");
+	Mahasiswa.add("Lina");
+	Mahasiswa.add("Nana");
+	Mahasiswa.add("Nina");
+	Mahasiswa.add("Alim");
 	
 	ArrayList<String> Mahasiswa1 = Mahasiswa;
 	System.out.println("1" + Mahasiswa.toString());
